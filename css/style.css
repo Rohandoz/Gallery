@@ -1,0 +1,25 @@
+body{
+	background:url("../img/play_cards.jpg");
+	background:cover;
+}
+.nav a{
+	color:white;
+	text-decoration:none;
+	font-size:10px;
+	text-transform:uppercase;
+}
+.nav li{
+	list-style:none;
+	float:right;
+	padding:0 15px 0 1px;
+	display:block;
+}
+.nav a:hover{
+	color:blue;
+	font-weight:bold;
+}
+.footer{
+	padding-top:20px;
+	background-color:grey;
+	clear:both;
+}
